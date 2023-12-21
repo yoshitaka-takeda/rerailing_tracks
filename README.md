@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -23,6 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-=======
-# rerailing_tracks
->>>>>>> d0a347dcf8aea542182defdd6ba0a5d1e7122723
+
+########################
+#
+# Git Repo: rerailing_tracks
+
