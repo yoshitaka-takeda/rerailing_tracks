@@ -23,7 +23,5 @@ Things you may want to cover:
 
 * ...
 
-########################
-#
 # Git Repo: rerailing_tracks
 
