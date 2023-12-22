@@ -263,7 +263,7 @@ DEPENDENCIES
   bootsnap
   capybara
   debug
-  dotenv-rails
+  dotenv-rails (~> 2.8.1)
   importmap-rails
   jbuilder
   puma (>= 5.0)
@@ -277,7 +277,7 @@ DEPENDENCIES
   web-console
 
 RUBY VERSION
-   ruby 3.0.6p216
+   ruby 3.1.2p20
 
 BUNDLED WITH
    2.5.1
