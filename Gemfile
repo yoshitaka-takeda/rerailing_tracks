@@ -48,6 +48,9 @@ gem "bootsnap", require: false
 # Use Dot Environment to apply environment(s) variables
 gem 'dotenv-rails', '~> 2.8.1', groups: [:development, :test]
 
+# Use Rack-cors to enforce CORS policy
+gem 'rack-cors', '~> 2.0.1'
+
 group :development, :test do
   # See https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem
   gem "debug", platforms: %i[ mri mswin64 ]
